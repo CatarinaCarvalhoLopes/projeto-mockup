@@ -14,3 +14,7 @@ Link do protótipo atualizado no Figma.
 Imagens adicionais dos novos produtos.
 
 [CLique aqui para acessar o protótipo](https://www.figma.com/proto/nIyLw1vSozSO1ym4HstuZq/Toy-S.A---Processo-CRO-(Copy)?node-id=43-2&t=f9RislkqIOXZNeB9-1)
+
+Além da análise escrita do desafio, também criei um vídeo complementar onde explico detalhadamente as sugestões de melhorias e hipóteses de testes A/B que propus. Confira o vídeo no YouTube:
+
+[Assista ao vídeo aqui](https://www.youtube.com/watch?v=FumPW6lQwHQ&ab_channel=CatarinaCarvalho)
